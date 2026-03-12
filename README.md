@@ -1,4 +1,4 @@
-# Hi, I'm Sakshi D 👋
+# Hey, I'm Sakshi D 👋
 
 🎓 Artificial Intelligence & Data Science Undergraduate   
 🤖 Building AI systems, ML solutions, and GenAI applications  
