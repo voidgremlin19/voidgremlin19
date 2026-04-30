@@ -96,8 +96,6 @@ AI-powered assistant with LLM-based question generation & adaptive learning<br/>
 🌍 Core Team — GDG Nashik
 👩‍💻 Volunteer — CNCG Nashik
 
-📊 GITHUB STATS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=voidgremlin19&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidgremlin19&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidgremlin19&layout=compact&theme=tokyonight&hide_border=true" width="50%" /> </p>
 
 📈 CONTRIBUTION GRAPH
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidgremlin19&theme=tokyo-night&hide_border=true" /> </p>
