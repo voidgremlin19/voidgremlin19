@@ -1,84 +1,66 @@
-# Hey, I'm Sakshi D 👋
+<!-- ================= HERO ================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+</p>
 
-🎓 Artificial Intelligence & Data Science Undergraduate   
-🤖 Building AI systems, ML solutions, and GenAI applications  
-🎤 Developer Community Leader | Public Speaker 
+<h1 align="center">⚡ Sakshi D ⚡</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=FF61F6&center=true&vCenter=true&lines=AI+Engineer;GenAI+Builder;Agentic+Systems+Explorer;Community+Leader" />
+</p>
 
-## 🌟 About Me
-
-I’m an **AI & Data Science engineering student** passionate about building intelligent systems and contributing to the developer ecosystem. My work revolves around **Machine Learning, Deep Learning, Generative AI, and Agentic AI systems**, where I enjoy transforming real-world problems into practical AI solutions.
-
-Alongside engineering, I actively contribute to the **developer community**, organizing technical events, mentoring peers, and hosting developer meetups.
-
-Currently:
-- 🎯 **Campus Organizer — GDG On Campus (MET BKC)**
-- 🌍 **Core Team Member — GDG Nashik**
-- 👩‍💻 **Volunteer - CNCG Nashik**
-
-I enjoy **building AI tools, leading teams, speaking on stage, and driving impactful tech communities.**
+<p align="center">
+  <b>Designing intelligence. Leading communities. Building the future.</b>
+</p>
 
 ---
 
-## 🧠 What I Work With
+<!-- ================= SYSTEM PANEL ================= -->
+## 🖥️ SYSTEM PROFILE
 
-**Artificial Intelligence**
-- Machine Learning
-- Deep Learning
-- Generative AI
-- NLP
-- Agentic AI Systems
+```bash
+> Name: Sakshi D
+> Role: AI & Data Science Engineer
+> Focus: ML | DL | GenAI | Agentic AI
+> Status: Building impactful AI systems 🚀
+<!-- ================= TECH STACK ================= -->
+⚙️ TECH ARSENAL
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,sql,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </p> <p align="center"> <img src="https://img.shields.io/badge/GenAI-FF6F61?style=for-the-badge" /> <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agentic_AI-00C9A7?style=for-the-badge" /> </p>
+<!-- ================= PROJECTS ================= -->
+🚀 MISSIONS (PROJECTS)
+🤖 Code Buddy
 
-**Programming & Tools**
-- Python
-- SQL
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Pandas / NumPy
-- Matplotlib
-- GenAI APIs
+AI-powered collaborative coding system
 
-**Engineering Areas**
-- ML Pipelines
-- Model Evaluation
-- AI Workflow Design
-- Data Processing
-- AI-assisted Applications
+Smart assistance
+Execution workflows
+Scalable experimentation
+📑 Plagiarism Detection
 
----
+NLP + Deep Learning engine
 
-## 🚀 Featured Projects
+TF-IDF + Cosine Similarity
+Explainable results
+🎯 Placement Prep AI
 
-### 🤖 Code Buddy
-AI-Assisted Collaborative Coding Platform  
+GenAI learning assistant
 
-- AI-assisted coding support
-- Code execution workflows
-- Scalable experimentation architecture
-
----
-
-### 📑 Plagiarism Detection System
-NLP & Deep Learning based similarity detection  
-
-- TF-IDF based similarity scoring
-- Cosine similarity detection
-- Interpretable plagiarism reports
-
----
-
-### 🎯 Placement Prep Assistant
-Generative AI powered learning assistant  
-
-- LLM-based question generation
-- Adaptive recommendations
-- Agent-like workflow design
-
----
-
-## 📊 GitHub Stats
-
-```text
-AI Projects | ML Experiments | Developer Tools | Community Initiatives
+LLM-driven Q generation
+Adaptive learning system
+<!-- ================= COMMUNITY ================= -->
+🌍 LEADERSHIP ZONE
+- GDG On Campus (MET BKC): Campus Organizer 🎯
+- GDG Nashik: Core Team 🌍
+- CNCG Nashik: Volunteer 👩‍💻
+<!-- ================= STATS DASHBOARD ================= -->
+📊 GITHUB DASHBOARD
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%" /> </p>
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+📈 CONTRIBUTION MATRIX
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" /> </p>
+<!-- ================= SIGNATURE ================= -->
+🌸 FINAL TRANSMISSION
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/> </p> <p align="center"> <b>"Turning ideas into intelligent systems."</b> </p>
+<!-- ================= CONNECT ================= -->
+🔗 CONNECT
+<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://img.shields.io/badge/LinkedIn-Sakshi-blue?style=for-the-badge&logo=linkedin" /> </a> </p> ```
