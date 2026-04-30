@@ -1,116 +1,68 @@
-<!-- PROFILE HEADER -->
+<!-- ================= GOJO STYLE SVG HEADER ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8e2de2&height=250&section=header&text=Sakshi%20D&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Limitless%20AI%20Sorcerer&descAlignY=65&descAlign=50" />
 </p>
 
-<h1 align="center">Hey, I'm Sakshi D 👋</h1>
-
+<!-- ================= HERO ================= -->
 <p align="center">
-  <b>AI & Data Science Engineer | Building Intelligent Systems 🤖</b>
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Machine+Learning+Engineer;GenAI+Builder;Agentic+AI+Explorer;Developer+Community+Leader" />
-</p>
-
----
-
-## 🌸 About Me
-
-✨ AI & Data Science undergraduate passionate about building **real-world AI systems**  
-🚀 Focused on **ML, Deep Learning, GenAI & Agentic AI**  
-🎤 Speaker | Organizer | Community Builder  
-
----
-
-## 🌍 Community Work
-
-- 🎯 Campus Organizer — GDG On Campus (MET BKC)  
-- 🌍 Core Team — GDG Nashik  
-- 👩‍💻 Volunteer — CNCG Nashik  
-
----
-
-## 🧠 Tech Stack
-
-### ⚙️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib" />
-</p>
-
-### 🤖 AI & Engineering
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=BD93F9&center=true&vCenter=true&lines=Domain+Expansion:+Artificial+Intelligence;Limitless+GenAI+Builder;Agentic+Systems+Engineer;Developer+Community+Leader" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧿 SORCERER PROFILE
 
-### 🤖 Code Buddy
-AI-assisted collaborative coding platform  
-- Smart code suggestions  
-- Execution workflows  
-- Scalable experimentation  
+```bash
+Name: Sakshi D
+Alias: voidgremlin19
+Rank: Special Grade AI Sorcerer
+Domain: Machine Learning • GenAI • Agentic Systems
+Affiliation: GDG | CNCG
+```
+⚔️ CURSED TECHNIQUES
+🧠 Limitless Core
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" /> </p>
+📊 Data Manipulation
+<p align="center"> <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sql" /> </p>
+⚙️ Engineering
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </p> <p align="center"> <img src="https://img.shields.io/badge/GenAI-Limitless-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/NLP-Cursed%20Speech-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agentic%20AI-Domain%20Expansion-ff00ff?style=for-the-badge" /> </p>
 
----
 
-### 📑 Plagiarism Detection System
-NLP + Deep Learning  
-- TF-IDF + Cosine Similarity  
-- Accurate similarity scoring  
-- Interpretable reports  
+🌀 DOMAIN EXPANSIONS (PROJECTS)
+🤖 Code Buddy
+<p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/> </p>
+AI-assisted coding workflows
+Real-time execution system
+Scalable architecture
 
----
+📑 Plagiarism Detection
+<p align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/> </p>
+TF-IDF + cosine similarity
+Deep learning models
+Explainable outputs
 
-### 🎯 Placement Prep Assistant
-Generative AI learning system  
-- LLM-based question generation  
-- Adaptive recommendations  
-- Agentic workflows  
+🎯 Placement Prep Assistant
+<p align="center"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="500"/> </p>
+LLM-powered learning
+Adaptive recommendations
+Agentic workflows
 
----
 
-## 📊 GitHub Stats
+📊 CURSED ENERGY DASHBOARD
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=voidgremlin19&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidgremlin19&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidgremlin19&layout=compact&theme=tokyonight&hide_border=true" width="50%" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+📈 CURSED ENERGY FLOW
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidgremlin19&theme=tokyo-night&hide_border=true&color=BD93F9&line=BD93F9&point=FFFFFF" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
----
+🌌 LIMITLESS VOID
+<p align="center"> <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="300"/> </p> <p align="center"> <b>"Throughout heaven and earth, I alone build intelligent systems."</b> </p>
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
-## 🌸 Anime Vibes Section
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  ✨ “Code. Create. Contribute. Repeat.” ✨
-</p>
-
----
-
-## 💫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Sakshi-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+🔗 BINDING VOW (CONNECT)
+<p align="center"> <a href="https://www.linkedin.com/in/sakshidhatrak/"> <img src="https://img.shields.io/badge/LinkedIn-Sakshi%20D-8A2BE2?style=for-the-badge&logo=linkedin" /> </a> </p> ```
