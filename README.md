@@ -17,8 +17,7 @@
 ## 🧠 ABOUT ME
 
 - 🎓 AI & Data Science Undergraduate (SPPU)
-- 🤖 Focused on ML, Deep Learning, Generative AI & Agentic Systems  
-- 🧪 AI Engineer Intern @ **Om Intelligence (Nashik)**  
+- 🤖 Focused on ML, Deep Learning, Generative AI & Agentic Systems    
 - 🌍 Active in Developer Communities (GDG, CNCG)  
 - 🎤 Speaker | Organizer | Builder  
 
