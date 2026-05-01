@@ -154,7 +154,7 @@ class SakshiDhatrak:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=4FC3F7)](https://linkedin.com/in/sakshidhatrak)
-[![GitHub](https://img.shields.io/badge/sosaksheee-1a1a2e?style=for-the-badge&logo=github&logoColor=7986CB)](https://github.com/voidgremlin19)
+[![GitHub](https://img.shields.io/badge/voidgremlin19-1a1a2e?style=for-the-badge&logo=github&logoColor=7986CB)](https://github.com/voidgremlin19)
 [![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EF5350)](mailto:dhatraksakshi1@gmail.com)
 
 <br/>
