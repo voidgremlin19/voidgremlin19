@@ -18,7 +18,7 @@
 <br/><br/>
 
 ```
-━━━━━━━━━━━━━━━━━━━ 呪 ━━━━━━━━━━━━━━━━━━━
+
 ```
 
 </div>
@@ -29,8 +29,6 @@
 
 ## 「 領域展開 」— Domain Expansion
 
-> *"I don't want to be the strongest. I want to be the one who protects."*
-> — Yuji Itadori
 
 </div>
 
@@ -42,7 +40,7 @@
 class SakshiDhatrak:
 
     GRADE        = "Special Class (Upcoming)"
-    LOCATION     = "Nashik, Maharashtra  🌑"
+    LOCATION     = "Nashik, Maharashtra  "
     AFFILIATION  = "MET's Institute of Engineering"
     DEGREE       = "B.E. — AI & Data Science"
     GRADUATING   = "May 2027"
@@ -163,12 +161,8 @@ class SakshiDhatrak:
 
 <br/>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  「 I'm going to be the one who changes jujutsu.  」
-        ── forking reality, one commit at a time ──
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+
+
 
 </div>
 
